@@ -1,5 +1,4 @@
-# sentiment_movie_reviews
-Sentiment Analysis of Movie Reviews
+# Sentiment Analysis of Movie Reviews
 
 Problem Statement: Apply the TF-IDF technique to train ML models for sentiment analysis using data from the "Sentiment Analysis on Movie Reviews" Kaggle competition.
 
